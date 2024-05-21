@@ -1,0 +1,13 @@
+#root{
+    background-color: red;
+    padding: 2px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.tweet{
+    background-color: lightblue;
+    margin: 20px;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
